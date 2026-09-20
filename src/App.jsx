@@ -745,7 +745,7 @@ function App() {
               </span>
 
               <small>
-                Recognised twice
+                Recognised four times
               </small>
 
             </div>
@@ -1537,7 +1537,7 @@ function App() {
                 GITHUB ↗
               </a>
 
-              <a href="#">
+              <a href="https://www.linkedin.com/in/harmeen-jaina-275bb8185?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
                 LINKEDIN ↗
               </a>
 
